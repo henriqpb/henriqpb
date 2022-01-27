@@ -1,8 +1,8 @@
-Olá
+Olá 😀
 
 Estudante de Análise e Desenvolvimento de Sistemas, estudando lógica de programação,
 JavaScript, HTML, CSS, Git e Github. Tenho interesse em Front-end, Back-end, 
-arduino e arquitetura de computadores.
+arduino e arquitetura de computadores. 🤙
 
 <!---
 henriqpb/henriqpb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
