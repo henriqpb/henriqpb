@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @henriqpb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Olá
+
+Estudante de Análise e Desenvolvimento de Sistemas, estudando lógica de programação,
+JavaScript, HTML, CSS, Git e Github. Tenho interesse em Front-end, Back-end, 
+arduino e arquitetura de computadores.
 
 <!---
 henriqpb/henriqpb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
