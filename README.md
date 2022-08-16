@@ -1,8 +1,8 @@
 Olá 😀
 
-Estudante de Análise e Desenvolvimento de Sistemas, estudando lógica de programação,
-JavaScript, HTML, CSS, Git e Github. Tenho interesse em Front-end, Back-end, 
-arduino e arquitetura de computadores. 🤙
+Estudante de Análise e Desenvolvimento de Sistemas, exercitando muita lógica de programação,
+C#, .Net, modelagem de dados, Git, Github. Tenho interesse em Back-end, 
+arduino e arquitetura de computadores e Métodos Ágeis. 🤙
 
 www.linkedin.com/in/henriquebrun
 <!---
